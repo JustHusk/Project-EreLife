@@ -19,7 +19,16 @@ namespace Project_EreLife
             Console.WriteLine("  ███          ███    ███ ███    ███     ███   ███    ███ ███    ███     ███     ");
             Console.WriteLine(" ▄████▀        ███    ███  ▀██████▀  █▄ ▄███   ██████████ ████████▀     ▄████▀   ");
             Console.WriteLine("               ███    ███            ▀▀▀▀▀▀                                      ");
-            Console.WriteLine("");             ");
+            Console.WriteLine("");
+            Console.WriteLine("   ▄████████    ▄████████    ▄████████  ▄█        ▄█     ▄████████    ▄████████  ");
+            Console.WriteLine("  ███    ███   ███    ███   ███    ███ ███       ███    ███    ███   ███    ███  ");
+            Console.WriteLine("  ███    █▀    ███    ███   ███    █▀  ███       ███▌   ███    █▀    ███    █▀   ");
+            Console.WriteLine(" ▄███▄▄▄      ▄███▄▄▄▄██▀  ▄███▄▄▄     ███       ███▌  ▄███▄▄▄      ▄███▄▄▄      ");
+            Console.WriteLine("▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ▀▀███▀▀▀     ███       ███▌ ▀▀███▀▀▀     ▀▀███▀▀▀      ");
+            Console.WriteLine("  ███    █▄  ▀███████████   ███    █▄  ███       ███    ███          ███    █▄   ");
+            Console.WriteLine("  ███    ███   ███    ███   ███    ███ ███▌    ▄ ███    ███          ███    ███  ");
+            Console.WriteLine("  ██████████   ███    ███   ██████████ █████▄▄██ █▀     ███          ██████████  ");
+            Console.WriteLine("               ███    ███                                                        ");
             Console.ReadKey();
         }
     }
